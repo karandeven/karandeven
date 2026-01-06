@@ -42,7 +42,12 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karandeven&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karandeven&layout=compact&theme=radical)
 
+---
+
+### 🔗 Connect With Me
+📫 **Email:** karandeven@proton.me
 
 ---
 
 ⭐ **Feel free to check out my repositories and projects!**
+``
