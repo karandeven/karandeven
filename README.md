@@ -30,6 +30,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![AOSP](https://img.shields.io/badge/AOSP-000000?style=for-the-badge&logo=android&logoColor=white)
 
 ---
 
@@ -59,3 +60,4 @@
 ---
 
 ⭐ **Feel free to check out my repositories and projects!**
+``
