@@ -7,6 +7,7 @@
 - 🔭 Currently working on **Cloud & DevOps projects**
 - 🌱 Learning **DevOps tools and automation**
 - ⚡ Passionate about **Cloud, Automation, and building scalable systems**
+- 🎯 Student of **Electronics & Computer Science**, aspiring **DevOps Engineer**
 
 ---
 
@@ -38,6 +39,14 @@
 
 ---
 
+### 🏆 Additional Technical Experience
+- **4+ years of experience with Android Custom ROMs**
+- Installed and managed multiple ROMs including **OrangeFox Recovery**, **TWRP**, and various custom ROMs
+- Skilled in **bootloader unlocking**, **kernel optimization**, and **system performance tuning**
+- Familiar with **Magisk modules**, **custom recoveries**, and **Linux-based environments**
+
+---
+
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karandeven&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karandeven&layout=compact&theme=radical)
@@ -50,4 +59,3 @@
 ---
 
 ⭐ **Feel free to check out my repositories and projects!**
-``
