@@ -76,13 +76,13 @@
   • Long-term experience with Android custom ROM ecosystems<br/>
   • Worked with multiple custom ROMs, recoveries, and system images<br/>
   • Comfortable with bootloader unlocking, flashing, and system-level tweaks<br/>
+  • I also build small automation tools, including Telegram bots, to solve practical workflow problems<br/>
   • Familiar with Linux-based environments through Android internals
 </p>
-
 ---
 
 <p align="center">
   <sub>
-    Calm progress · System-focused · Built with patience
+    Simple progress · System-focused · Built with patience and calmness
   </sub>
 </p>
