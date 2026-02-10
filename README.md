@@ -1,89 +1,135 @@
-<h1 align="center">👋 Hello, I’m karandeven</h1>
+<div align="center">
 
-<p align="center">
-  I work closely with systems and tools that form the foundation of
-  DevOps and cloud engineering. I prefer Linux-first workflows,
-  clean setups, and practical understanding gained from real usage.
-</p>
+# 👋 Hey, I'm Karan
 
+### DevOps Engineer | Cloud Enthusiast | Linux Advocate
+
+*Building reliable systems, one automation at a time*
+
+[![ProtonMail](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:karandeven@proton.me)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KRN0G)
+
+</div>
+
+---
+
+## 🚀 What I Do
+
+I'm passionate about **DevOps practices** and **cloud infrastructure**. My work revolves around:
+
+- 🔧 Automating workflows and building CI/CD pipelines
+- ☁️ Designing and deploying cloud-native solutions
+- 🐧 Linux-first approach to system administration
+- 🤖 Creating practical automation tools (including Telegram bots)
+- 📦 Containerization and infrastructure as code
+
+---
+
+## 💼 Tech Stack
+
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
 <br/>
 
-<p align="center">
-  <a href="mailto:karandeven@proton.me">
-    <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/KRN0G">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</details>
+
+<details open>
+<summary><b>💻 Languages & Scripting</b></summary>
+<br/>
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+
+</details>
+
+<details open>
+<summary><b>🛠️ Tools & Platforms</b></summary>
+<br/>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</details>
 
 ---
 
-<h2 align="center">🔥 About Me</h2>
+## 🎯 Current Focus
 
-<p align="center">
-  • Currently working on Cloud & DevOps-oriented systems<br/>
-  • Comfortable with Linux environments and automation mindset<br/>
-  • Interested in reliability, system behavior, and clean architecture
-</p>
-
----
-
-<h2 align="center">🧰 Tools & Technologies</h2>
-
-<h3 align="center">💻 Operating Systems</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows" />
-</p>
-
-<h3 align="center">☁️ Cloud & DevOps</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS%20EC2-232F3E?style=for-the-badge&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-<h3 align="center">🧑‍💻 Languages & Scripting</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-</p>
-
-<h3 align="center">🔧 Version Control</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-<h3 align="center">✏️ Editors</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode" />
-</p>
+```yaml
+learning:
+  - Advanced AWS services (EC2, Lambda, S3, CloudFormation)
+  - Kubernetes orchestration
+  - Infrastructure as Code (Terraform)
+  
+building:
+  - Automated deployment pipelines
+  - System monitoring & observability tools
+  - Practical automation solutions
+  
+improving:
+  - System reliability & performance
+  - Clean architecture patterns
+  - DevOps best practices
+```
 
 ---
 
-<h2 align="center">🏆 Additional Technical Experience</h2>
+## 🏆 Experience Highlights
 
-<p align="center">
-  • Long-term experience with Android custom ROM ecosystems<br/>
-  • Worked with multiple custom ROMs, recoveries, and system images<br/>
-  • Comfortable with bootloader unlocking, flashing, and system-level tweaks<br/>
-  • I also build small automation tools, including Telegram bots, to solve practical workflow problems<br/>
-  • Familiar with Linux-based environments through Android internals
-</p>
+- 🤖 **Automation Enthusiast**: Built custom Telegram bots and workflow automation tools
+- ��� **Android Internals**: Deep experience with custom ROMs, recoveries, bootloaders, and system-level modifications
+- 🐧 **Linux Power User**: Years of hands-on experience with Linux environments
+- 🔧 **System Tinkerer**: Comfortable working at low levels - from kernel to application layer
 
 ---
 
-<p align="center">
-  <sub>
-    Simple progress · System-focused · Built with patience and calmness
-  </sub>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karandeven&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karandeven&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+</div>
+
+---
+
+## 💭 Philosophy
+
+> *"Clean code, reliable systems, and continuous learning - that's the way forward."*
+
+I believe in:
+- 📚 Learning by doing, not just reading
+- 🎯 Practical solutions over theoretical perfection
+- 🔄 Continuous improvement and iteration
+- 🤝 Open source and knowledge sharing
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in discussing:
+- DevOps practices and cloud architecture
+- Linux system administration
+- Automation and productivity tools
+- Open source projects
+
+Feel free to reach out via [email](mailto:karandeven@proton.me) or [Telegram](https://t.me/KRN0G)!
+
+---
+
+<div align="center">
+
+*Built with patience, calmness, and lots of ☕*
+
+![Profile Views](https://komarev.com/ghpvc/?username=karandeven&color=58A6FF&style=flat-square)
+
+</div>
