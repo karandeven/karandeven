@@ -79,6 +79,7 @@
   • I also build small automation tools, including Telegram bots, to solve practical workflow problems<br/>
   • Familiar with Linux-based environments through Android internals
 </p>
+
 ---
 
 <p align="center">
